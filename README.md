@@ -18,10 +18,10 @@ Dispensor de ração programável utilizando arduino desenvolvido para a discipl
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 70px;">
-    <img src="img/interno.png" alt="imagem 1" style="width: 300px;">
     <img src="img/esqueleto.png" alt="Imagem 2" style="width: 300px;">
-    <img src="img/estrutura.png" alt="Imagem 3" style="width: 300px;">    
-  </div>
+    <img src="img/estrutura.png" alt="Imagem 3" style="width: 300px;">
+    <img src="img/interno.png" alt="imagem 1" style="width: 300px;">
+   </div>
 </div>
   
 
