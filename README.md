@@ -1,8 +1,8 @@
-# HungryPet Comedouro
+# :dog2: HungryPet Comedouro 
 
 Dispensor de ração programável utilizando arduino desenvolvido para a disciplina de Projeto de Engenharia I da Faculdade de Computação e Telecomunicações da Universidade Federal do Pará.
 
-## Componentes Utilizados
+## :wrench: Componentes Utilizados
  
 - Arduino Uno 
 - Servo motor com rotação 180º
@@ -10,4 +10,7 @@ Dispensor de ração programável utilizando arduino desenvolvido para a discipl
 - Jumpers e Expansores de Portas 
 - RTC (circuito relógio) 
 - Estrutura de MDF
-- Expansor de portas 
+- Expansor de portas
+
+  <img src="img/layout.png" alt="layout de ligações">
+
